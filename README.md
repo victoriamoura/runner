@@ -1,6 +1,6 @@
-# runner
+# Table Runner
 
-Tabelas de intervalos de tempo, velocidade e ritmo para corredores de rua.
+> Tabelas de intervalos de tempo, velocidade e ritmo para corredores de rua.
 
 ### Tabela de Velocidade
 
@@ -27,7 +27,7 @@ Tabelas de intervalos de tempo, velocidade e ritmo para corredores de rua.
 | 4.29km/h   | 14:00/Km| 00:14:00|
 | 4.14km/h   | 14:30/Km| 00:14:30|
 
-## Tabela de Pace
+### Tabela de Pace
 
 | Velocidade (km/h) | Ritmo (minutos por quilômetro) |
 |---------------------|---------------------------------|
