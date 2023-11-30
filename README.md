@@ -1,6 +1,8 @@
 # runner
 
-### Pace Table
+Tabelas de intervalos de tempo, velocidade e ritmo para corredores de rua.
+
+### Tabela de Velocidade
 
 | Velocidade | Pace    | Tempo   |
 |------------|---------|---------|
@@ -24,3 +26,27 @@
 | 4.44km/h   | 13:30/Km| 00:13:30|
 | 4.29km/h   | 14:00/Km| 00:14:00|
 | 4.14km/h   | 14:30/Km| 00:14:30|
+
+## Tabela de Pace
+
+| Velocidade (km/h) | Ritmo (minutos por quilômetro) |
+|---------------------|---------------------------------|
+| 4                   | 15                              |
+| 4.5                 | 13.33                           |
+| 5                   | 12                              |
+| 5.5                 | 10.91                           |
+| 6                   | 10                              |
+| 6.5                 | 9.23                            |
+| 7                   | 8.57                            |
+| 7.5                 | 8                               |
+| 8                   | 7.5                             |
+| 8.5                 | 7.06                            |
+| 9                   | 6.67                            |
+| 9.5                 | 6.32                            |
+| 10                  | 6                               |
+| 10.5                | 5.71                            |
+| 11                  | 5.45                            |
+| 11.5                | 5.22                            |
+| 12                  | 5                               |
+| 12.5                | 4.8                             |
+| 13                  | 4.62                            |
